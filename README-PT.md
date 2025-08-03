@@ -1,6 +1,6 @@
 # armips-lzss
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/leomontenegro6/armips-lzss/blob/master/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/leomontenegro6/armips-lzss/blob/master/README.PT.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/leomontenegro6/armips-lzss/blob/master/README-PT.md)
 
 Esta é uma versão moodificada da ferramenta [armips assembler](https://github.com/Kingcom/armips), originalmente criada por Kingcom, e forkada pelo denim para nela adicionar novas funcionalidades.
 

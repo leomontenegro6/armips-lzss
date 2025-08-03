@@ -1,6 +1,6 @@
 # armips-lzss
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/leomontenegro6/mmbn-3-traducao-ptbr/blob/master/Asm/bn3plus/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/leomontenegro6/mmbn-3-traducao-ptbr/blob/master/Asm/bn3plus/README.PT.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/leomontenegro6/armips-lzss/blob/master/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/leomontenegro6/armips-lzss/blob/master/README-PT.md)
 
 This is a modified version of the [armips assembler](https://github.com/Kingcom/armips), originally made by Kingcom, and forked by a colleague of mine called denim to add new features.
 
